@@ -54,7 +54,7 @@ export default function Contact() {
                         </div>
 
                         <div className="contact__card">
-                            <i className="bx bxl-messenger contact__card-icon"></i>
+                            <i className="bx bxl-linkedin contact__card-icon"></i>
 
                             <h3 className="contact__card-title">Linkedin</h3>
                             <span className="contact__card-data">https://www.linkedin.com/in/joel-john-9b9348200/</span>

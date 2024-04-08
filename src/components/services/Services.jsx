@@ -114,17 +114,17 @@ const toggleTab = (index)=>{
 
                             <ul className="services__modal-services grid">
                                 <li className="services__modal-service">
-                                    <i className="uil uil-check-circle services__modal-icon">Backend services using Node.js & Express.js</i>
-                                    <p className="services__modal-info"></p>
+                                    <i className="uil uil-check-circle services__modal-icon"></i>
+                                    <p className="services__modal-info">Backend services using Node.js & Express.js</p>
                                 </li>
 
                                 <li className="services__modal-service">
-                                    <i className="uil uil-check-circle services__modal-icon">create RESTful APIs</i>
-                                    <p className="services__modal-info"></p>
+                                    <i className="uil uil-check-circle services__modal-icon"></i>
+                                    <p className="services__modal-info">create RESTful APIs</p>
                                 </li>
                                 <li className="services__modal-service">
-                                    <i className="uil uil-check-circle services__modal-icon"> Authentication & Authorization</i>
-                                    <p className="services__modal-info">.</p>
+                                    <i className="uil uil-check-circle services__modal-icon"></i>
+                                    <p className="services__modal-info">Authentication & Authorization.</p>
                                 </li>
                                 {/* <li className="services__modal-service">
                                     <i className="uil uil-check-circle services__modal-icon"></i>

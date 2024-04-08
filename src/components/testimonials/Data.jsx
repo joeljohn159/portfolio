@@ -1,24 +1,25 @@
-import Image1 from '../../assets/testimonial11.jpg';
-import Image2 from '../../assets/testimonial12.jpg';
-import Image3 from '../../assets/testimonial13.jpg';
+import Image1 from '../../assets/ImageDipayan.jpg';
+import Image2 from '../../assets/ImageShiv.jpeg';
+import Image3 from '../../assets/ImageKalai.jpg';
 
 export  const Data = [
-{
-    id:1,
-    image: Image1,
-    title:'Swati Yadav',
-    description:'A really good work, all aspects of the project were followed step by step and with good results.'
-},
-{
+    {
+        id:1,
+        image: Image1,
+        title:'Dipayan Dakshi - Manager',
+        description:'"Joel has joined the team in the month of January. He is proactively working and has provided an idea to reduce the effort for a validation process."'
+    }
+,{
     id:2,
     image: Image2,
-    title:'Mark Zukerburg',
-    description:'Excellent work, need to add more info followed step by step and with good results.'
-},{
+    title:'Shivaranjani Purohit - Shift Lead',
+    description:'"he\'s an inquisitive person having questions on everything. He likes gaining knowledge and his passion towards his work\'s amazing."'
+},
+{
     id:3,
     image: Image3,
-    title:'Lokesh bhul',
-    description:'Mindblowing! he is a greak hard working person. were followed step by step and with good results.'
+    title:'Kalaiyarasi M',
+    description:'"Joel helped our team grow by motivating everyone. Thank you Joel! for being so supportive, also your skills helped us to pace up the project."'
 }
 
 ]
