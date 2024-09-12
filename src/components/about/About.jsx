@@ -1,6 +1,6 @@
 import './About.css';
 import AboutImg from '../../assets/about2.jpeg'
-import CV from '../../assets/Joel_Resume.pdf';
+import CV from '../../assets/JOELRESUME2.pdf';
 import Info from './Info';
 
 export default function About(){
