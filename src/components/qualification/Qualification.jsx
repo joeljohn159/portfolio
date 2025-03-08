@@ -28,6 +28,21 @@ export default function Qualification(){
 
                 <div className="qualification__sections">
                     <div className={toggle===1 ? "qualification__content qualification__content-active" : "qualification__content"}>
+                         <div className="qualification__data">
+                            <div>
+                                <h3 className="qualification__title">MS Computer Science</h3>
+                                <span className="qualification__subtitle">University of North Texas</span>
+                                <div className="qualification__calender">
+                                    <i className="uil uil-calender-alt"></i>2024 - 2026
+                                </div>
+                            </div>
+
+                            <div>
+                                <span className="qualification__rounder"></span>
+                                <div className="qualification__line"></div>
+                            </div>
+                        </div>
+                        
                         <div className="qualification__data">
                             <div>
                                 <h3 className="qualification__title">B.Tech ECE</h3>
