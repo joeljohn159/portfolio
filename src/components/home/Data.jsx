@@ -53,8 +53,8 @@ export default function Data() {
                         fill="#EBA352"
                     ></path>
                 </svg></h1>
-            <h3 className="home__subtitle">Full Stack Developer</h3>
-            <p className="home__description">I am a creative full stack developer based in INDIA, and I am very passionate and dedicated to my work</p>
+            <h3 className="home__subtitle">Software Engineer</h3>
+            <p className="home__description">Passionate Software Engineer from the USA, dedicated to building innovative and scalable solutions that drive success. Always eager to learn and tackle new challenges in the tech world.</p>
             <a className="button button--flex" href="#contact">
                 Say Hello
                 <svg
