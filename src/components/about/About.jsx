@@ -1,5 +1,5 @@
 import './About.css';
-import AboutImg from '../../assets/profilenew.jpeg'
+import Profile from '../../assets/profile.jpeg'
 import CV from '../../assets/Joel_John_Resume.pdf';
 import Info from './Info';
 
@@ -9,7 +9,7 @@ export default function About(){
             <h1 className="section__title">About Me</h1>
             <span className='section__subtitle'>My introduction</span>
             <div className="about__container container grid">
-                <img src={AboutImg} alt="aboutImage" className='about__img' />
+                <img src={Profile} alt="aboutImage" className='about__img' />
                 <div className="about__data">
                     <Info/>
                     <p className="about__description">
