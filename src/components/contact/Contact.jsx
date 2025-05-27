@@ -48,7 +48,7 @@ export default function Contact() {
                             <i className="bx bxl-whatsapp contact__card-icon"></i>
 
                             <h3 className="contact__card-title">Phone</h3>
-                            <span className="contact__card-data">76191-04603</span>
+                            <span className="contact__card-data">(469) 750-8133</span>
 
                             <a href="" className="contact__button">Call me <i className="bx bx-right-arrow-alt"></i></a>
                         </div>
