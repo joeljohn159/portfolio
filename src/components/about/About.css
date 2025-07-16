@@ -4,8 +4,15 @@
     column-gap: 4rem;
 }
 
-.about__img{
+/* .about__img{
     width: 350px;
+    border-radius: 1.5rem;
+    justify-self: center;
+} */
+.about__img {
+    height: 100%; /* Take full height of container */
+    width: auto;   /* Maintain aspect ratio */
+    object-fit: contain; /* or 'cover' depending on your needs */
     border-radius: 1.5rem;
     justify-self: center;
 }
