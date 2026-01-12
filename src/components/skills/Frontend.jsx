@@ -1,70 +1,55 @@
 import './Skills.css';
-import AWS from '../../assets/AWS.pdf'
 
-export default function Frontend(){
+export default function Frontend() {
     return (
         <div className="skills__content">
-            <h3 className="skills__title">Frontend Developer</h3>
-
+            <h3 className="skills__title">Frontend Development</h3>
             <div className="skills__box">
                 <div className="skills__group">
                     <div className="skills__data">
                         <i className='bx bx-badge-check'></i>
-
                         <div>
-                            <h3 className="skills__name">HTML</h3>
+                            <h3 className="skills__name">React.js</h3>
                             <span className="skills__level">Advanced</span>
                         </div>
                     </div>
-
                     <div className="skills__data">
                         <i className='bx bx-badge-check'></i>
-
                         <div>
-                            <h3 className="skills__name">CSS</h3>
+                            <h3 className="skills__name">Next.js</h3>
                             <span className="skills__level">Intermediate</span>
                         </div>
                     </div>
-
                     <div className="skills__data">
                         <i className='bx bx-badge-check'></i>
-
                         <div>
-                            <h3 className="skills__name">JavaScript</h3>
+                            <h3 className="skills__name">React Native</h3>
                             <span className="skills__level">Intermediate</span>
                         </div>
                     </div>
                 </div>
-
                 <div className="skills__group">
                     <div className="skills__data">
                         <i className='bx bx-badge-check'></i>
-
                         <div>
-                            <h3 className="skills__name">React.js</h3>
-                            <span className="skills__level">Intermediate</span>
+                            <h3 className="skills__name">JavaScript</h3>
+                            <span className="skills__level">Advanced</span>
                         </div>
                     </div>
-
                     <div className="skills__data">
                         <i className='bx bx-badge-check'></i>
-
                         <div>
-                            <h3 className="skills__name">React Query</h3>
-                            <span className="skills__level">Beginner</span>
+                            <h3 className="skills__name">TypeScript</h3>
+                            <span className="skills__level">Advanced</span>
                         </div>
                     </div>
-
                     <div className="skills__data">
                         <i className='bx bx-badge-check'></i>
-
                         <div>
-                            <h3 className="skills__name">AWS foundational</h3>
-                            <span className="skills__level"><a download="" style={{textDecoration:"underline"}} href={AWS}>Download Certificate</a></span>
+                            <h3 className="skills__name">HTML/CSS</h3>
+                            <span className="skills__level">Advanced</span>
                         </div>
                     </div>
-
-                    
                 </div>
             </div>
         </div>
