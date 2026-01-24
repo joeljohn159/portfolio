@@ -29,8 +29,6 @@ export default function About() {
           </p>
 
           <a
-            href={CV}
-            download="Joel_John_Resume.pdf"
             className="button button--flex"
             aria-label="Download Joel John's resume as PDF"
             aria-disabled="true"
